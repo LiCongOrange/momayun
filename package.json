@@ -101,7 +101,7 @@
     "url": "git+https://github.com/LiCongOrange/momayun.git"
   },
   "bugs": {
-    "url": "https://github.com/LiCongOrange/momayun"
+    "url": "https://github.com/LiCongOrange/momayun/issues"
   },
-  "homepage": "https://github.com/LiCongOrange/momayun"
+  "homepage": "https://github.com/LiCongOrange/momayun#readme"
 }
