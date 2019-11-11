@@ -1,0 +1,265 @@
+{
+	"code": 200,
+	"msg": "success",
+	"time": "1548041265",
+	"data": {
+		"newlist": [{
+			"id": 25,
+			"timer": "2018-12-04 14:01:41",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>法国政府寻求与“黄背心”对话 遏制事态发展<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>中新网12月4日电据欧联网援引欧联通讯社报道，当地时间1日，来自法国各地的5500多名“黄背心”运动抗议者聚集在首都巴黎市香街大道，抗议政府再次调涨燃油税。活动一度失控引发大规模暴乱，巴黎市部分地区遭到了严重破坏。事件发生后，法国总统马克龙在爱丽舍宫召开紧急会议，并指示总理菲利普会见“黄背心”运动代表。<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 26,
+			"timer": "2018-12-04 14:01:42",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>埃尔多安当面告诫马杜罗：黄金出口不能停<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>12月3日，土耳其总统埃尔多安（左）和委内瑞拉总统马杜罗在加拉加斯举行会晤。（图源路透社）<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 27,
+			"timer": "2018-12-04 14:01:43",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>袜子控老布什最后袜子：飞行队翱翔图致敬其为国一生<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>美国第41任总统乔治HW布什（GeorgeHWBush）的灵柩周一（12月3日）晚间抵达国会圆形大厅，供政要和公众瞻仰道别。3日，老布什家族新闻发言人吉姆麦格拉斯（JimMcGrath）公布老布什入棺时穿的最后一双袜子，上面画着美海军飞行队翱翔天空的图案。<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 28,
+			"timer": "2018-12-04 14:01:44",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>自杀？抑郁？美第5舰队司令之死背景或不简单<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>据美国哥伦比亚广播公司CBS12月2日援引美国国防部官员的消息称，美海军第5舰队指挥官斯科特斯蒂尔尼海军中将12月1日被发现死在其位于巴林的住所内，调查人员根据现场迹象判断，初步排除了他杀可能性（有外媒报道称是自杀），但详细调查结果仍需后续调查分析。<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 29,
+			"timer": "2018-12-04 14:01:45",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>“黄背心运动”无组织色彩：工薪阶层掺杂暴力分子<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>示威者在巴黎市中心举行的大规模抗议已经进入第三周。从12月1日起，这场最初以抗议政府提高燃油税和物价攀升为口号的运动演变成为一场严重骚乱——数十辆汽车被烧毁、至少19个地铁站停运、商店遭遇打砸抢、凯旋门被涂鸦覆盖……骚乱者们甚至走上了著名的香榭丽舍大街打砸，这还是法兰西第五共和国建国以来的第一次。<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 30,
+			"timer": "2018-12-04 14:01:46",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>日本新天皇明年即位 特朗普：能与他见面无上光荣<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>美国总统特朗普（来源日本朝日新闻）<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 32,
+			"timer": "2018-12-04 14:01:49",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>“黄背心”：压垮马克龙的稻草或欧洲建制派失败先兆<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>当地时间2018年12月3日，法国弗龙蒂尼昂，身穿黄色背心的示威者封锁了通往Frontignan油库的道路。视觉中国图<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 33,
+			"timer": "2018-12-04 14:01:50",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>美媒称老布什生命最后仍保持幽默：催送别者“快点说”<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>参考消息网12月4日报道美媒称，在生命即将逝去之际，乔治赫伯特沃克布什（老布什）没有丧失他的幽默感。<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 35,
+			"timer": "2018-12-04 14:01:51",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>羞辱完巴基斯坦不久，特朗普又写信求帮忙<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>【文观察者网李东尧】<\/span><\/p>",
+			"btnToggle": "true"
+		}, {
+			"id": 36,
+			"timer": "2018-12-04 14:02:04",
+			"title": "<p class='ql-align-left'><span class='ql-size-large'>特朗普或于2019年5月访问日本<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>【环球网报道记者王欢】日本共同社12月4日报道称，2019年5月1日，日本皇太子即将即位，成为日本新天皇。日本政府开始考虑在新天皇即位后邀请美国总统特朗普作为国宾访问日本，同时将协调安排特朗普会见新天皇，并与首相安倍晋三举行美日首脑会谈。<\/span><\/p>",
+			"btnToggle": "true"
+		}],
+		"joblist": [{
+			"jobid": 1,
+			"title": "市场部",
+			"titleFn": "商务助理",
+			"past": "1.辅助销售经理工作，负责客户咨询记录，协助有关部门妥善处理突发问题；\r\n2.负责公司销售合同及其他营销文件资料的整理、归纳、建档、保管工作；\r\n任职要求：1.熟练使用word、office等办公软件；\r\n3.从事过销售助理优先考虑."
+		}, {
+			"jobid": 2,
+			"title": "行政部门",
+			"titleFn": "行政人事",
+			"past": "1.负责员工日常考勤、积分绩效考核工作，协助办理员工晋升、奖惩等人事手续；\r\n2.负责公司招聘、简历的筛选、邀约、面试安排、工作培训、员工入职、转正、离职等工作的综合管理；\r\n3.负责公司员工关系维护、及时准确的更新员工通讯录；管理单位网络、邮箱等."
+		}, {
+			"jobid": 3,
+			"title": "市场部",
+			"titleFn": "项目经理",
+			"past": "1. 全权执行和完成每月制订的所辖区域内销售目标和任务;\r\n2. 全权所辖区域内各个售点的供货、回款及新核心售点的开拓;\r\n3.全权所属导购顾问及经销商培训各种销售技巧、产品知识、企业文化，增强导购和经销商销售技能，维护售点客情关系;\r\n4. 及时妥善的处理所辖区域内导购顾问在终端的疑难相关问题;"
+		}, {
+			"jobid": 5,
+			"title": "行政部",
+			"titleFn": "秘书助理",
+			"past": "1.负责海外事物对接与沟通协调；\r\n2.负责各类统计、通知等事务办理及协调沟通工作；\r\n3.负责日常例会通知及纪要，协助工作推进与落实."
+		}, {
+			"jobid": 6,
+			"title": "市场部",
+			"titleFn": "销售代表",
+			"past": "1.在部门经理的领导下开展销售工作，确保完成业务指标.\r\n2.开发客户资源，拓宽业务渠道，开拓市场，签约新客户；\r\n3.根据客户需求，定制个性化方案；\r\n4.收集行业信息及动态并及时定期做好计划与部门主管领导进行交流研讨"
+		}, {
+			"jobid": 7,
+			"title": "市场部",
+			"titleFn": "市场经理",
+			"past": "1.根据公司发展战略制定市场年度工作计划；\r\n2.负责定期对客户进行回访调查，不定期对每家分店进行相应的市场调研；\r\n3.负责统筹公司宣传品的设计和印刷"
+		}, {
+			"jobid": 9,
+			"title": "财务部",
+			"titleFn": "公司财务",
+			"past": "1.熟悉现金管理及银行结算，熟悉财务软件的操作；\r\n2.准备和报送财务报表，协助办理税务报表的申报"
+		}, {
+			"jobid": 10,
+			"title": "策划部",
+			"titleFn": "市场策划",
+			"past": "1.负责商业情报的收集及信息平台的规划，研究市场的宏观方面的信息；\r\n2.参与制定年、季、月度市场推广方案并督导、执行；\r\n3.协调公司内部的运作实施，并完成品牌、产品推广的效果评估，提出改进方案."
+		}],
+		"beijingimg": [{
+			"imgid": 262,
+			"picurl": "\/static/images/banner/broadcast/broadcast01.png",
+			"picslurl": "\/upload\/images\/20181105\/5be01bdee48e6.jpeg"
+		}, {
+			"imgid": 264,
+			"picurl": "\/static/images/banner/broadcast/broadcast01.png",
+			"picslurl": "\/upload\/images\/20181105\/5be01c0dcc7f0.jpeg"
+		}, {
+			"imgid": 288,
+			"picurl": "\/static/images/banner/broadcast/broadcast01.png",
+			"picslurl": "\/upload\/images\/20181106\/5be105936ca03.jpeg"
+		}],
+		"bannerList": [{
+			"imgid": 218,
+			"picurl": "\/static/images/banner/shows/show18.png",
+			"picslurl": "\/upload\/images\/20180911\/5b9769ee31aa6.jpeg",
+			"bannerid": 1,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255,255, 255)'>专业、全面、高效<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255, 255, 255)'>您的满意是我们最大的追求<\/span><\/p>",
+			"spanOnoff": "ture",
+			"listTpggle": "ture"
+		}, {
+			"imgid": 258,
+			"picurl": "\/static/images/banner/shows/show11.jpg",
+			"picslurl": "\/upload\/images\/20181105\/5be01b7a13550.jpeg",
+			"bannerid": 7,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255,255, 255)'>卓越来于专注<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255, 255, 255)'>追求卓越、共创美好<\/span><\/p>",
+			"spanOnoff": "ture",
+			"listTpggle": "ture"
+		}, {
+			"imgid": 259,
+			"picurl": "\/static/images/banner/shows/show14.jpg",
+			"picslurl": "\/upload\/images\/20181105\/5be01b9684b9d.jpeg",
+			"bannerid": 8,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255,255, 255)'>选择我们没有错<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255, 255, 255)'>不要犹豫，选择我们与高质量同行<\/span><\/p>",
+			"spanOnoff": "ture",
+			"listTpggle": "ture"
+		}, {
+			"imgid": 261,
+			"picurl": "\/static/images/banner/shows/show18.png",
+			"picslurl": "\/upload\/images\/20181105\/5be01bc8c4299.jpeg",
+			"bannerid": 9,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255,255, 255)'>诚信为本，客户至上<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif ' style='color: rgb(255, 255, 255)'>想您所想，做您所需<\/span><\/p>",
+			"spanOnoff": "ture",
+			"listTpggle": "ture"
+		}],
+		"teamList": [{
+			"id": 1,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif'>专业、全面、高效<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif'>我们致力于打造专业全面的服务体系，专注于为客户创造和管理品牌，提供从品牌资产研究、市场洞察、从创作、设计到内部品牌导入，提升客户市场影响力，坚持不懈追求您的满意<\/span><\/p>",
+			"titleFn": "<p class='ql-align-center'><span class='ql-font-serif'>您的满意是我们最大的追求<\/span><\/p>",
+			"imgid": 229,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"id": 3,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif'>选择我们没有错<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif'>坚持以策略为先导，秉承先进的产品制作工艺以及完善的售后服务，为您的需求保驾护航，选择我们，选择与高品质同行。<\/span><\/p>",
+			"titleFn": "<p class='ql-align-center'><span class='ql-font-serif'>不要犹豫，选择我们与高质量同行<\/span><\/p>",
+			"imgid": 232,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"id": 6,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif'>创新、价值、协作、人本<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif'>公司拥有优秀的管理人才、高效的专业团队、高水平的营销队伍，凭借专业的业务操作，为您提供满意快捷的服务，我们值得您的选择！<\/span><\/p>",
+			"titleFn": "<p class='ql-align-center'><span class='ql-font-serif'>我们值得您的选择！<\/span><\/p>",
+			"imgid": 234,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"id": 8,
+			"title": "<p class='ql-align-center'><span class='ql-font-serif'>品质铸就品牌，用心创造未来<\/span><\/p>",
+			"content": "<p class='ql-align-center'><span class='ql-font-serif'>本企业开展涵盖各个市场的专业业务，涉及多个领域，以诚信铸根本，以高效立天下，打造行业一流企业，我们永远追求卓越！<\/span><\/p>",
+			"titleFn": "<p class='ql-align-center'><span class='ql-font-serif'>8.想您所想，做您所需<\/span><\/p>",
+			"imgid": 236,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}],
+		"productList": [{
+			"proid": 1,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>专业服务<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>一对一即时咨询服务，专业领域顾问为您答疑解惑<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>一对一咨询<\/span><\/p>",
+			"imgid": 219,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 2,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>严格把控<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>严格把控业务办理风险，保证您的体验安全平稳进行。<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>安全保障<\/span><\/p>",
+			"imgid": 220,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 4,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>经验丰富<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>为您提供种类最全的个性化产品，数十年行业经验<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>个性化产品<\/span><\/p>",
+			"imgid": 222,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 5,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>企业文化<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>构筑与顾客的信赖关系，实现顾客利益最大化目标<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>顾客利益最大化<\/span><\/p>",
+			"imgid": 223,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 6,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>优质服务<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>全天候客服在线，为您排忧解难，高效率解决售后问题。<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>高效率<\/span><\/p>",
+			"imgid": 238,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 7,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>技术优势<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>公司设立专业研发团队，不断攻克技术难关，保证品牌产品在市场的研发领域占据领先地位。<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>专业研发团队<\/span><\/p>",
+			"imgid": 239,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 8,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>技术迭代<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>稳定的开发团队，提供长期稳定的产品 更新的服务，满足各类不同业务需求，集团重视人才培养，保证企业实力。<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>长期稳定<\/span><\/p>",
+			"imgid": 240,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}, {
+			"proid": 9,
+			"title": "<p class='ql-align-left'><span class='ql-font-serif'>相同之处<\/span><\/p>",
+			"past": "<p class='ql-align-left'><span class='ql-font-serif'>同样的资质、管理、人才、服务，本公司将以规模化的经营、现代化的管理、专业化的服务赢得更大发展。<\/span><\/p>",
+			"nameFn": "<p class='ql-align-left'><span class='ql-font-serif' style='color: rgb(168, 127, 86)'>尽显不同<\/span><\/p>",
+			"imgid": 241,
+			"picurl": "\/static/images/product/shows/pro15.jpg"
+		}],
+		"site_id": "3115",
+		"lanmuList": [{
+			"lanmuid": "20560",
+			"lmid": "991"
+		}, {
+			"lanmuid": "20561",
+			"lmid": "660"
+		}, {
+			"lanmuid": "20562",
+			"lmid": "550"
+		}, {
+			"lanmuid": "20563",
+			"lmid": "440"
+		}, {
+			"lanmuid": "20564",
+			"lmid": "330"
+		}, {
+			"lanmuid": "20565",
+			"lmid": "220"
+		}]
+	}
+}

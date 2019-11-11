@@ -39,6 +39,8 @@ module.exports = {
     // stafflogin: './src/pages/stafflogin/main.js',
     // step: './src/pages/step/main.js',
 
+
+
     // login: './src/pages/login/main.js',
     // account: './src/pages/account/main.js',
     // recharge: './src/pages/account/recharge/main.js',

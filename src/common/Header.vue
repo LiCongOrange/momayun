@@ -76,9 +76,13 @@ export default {
 					this.$store.commit('userbalanceHandel', res.data.data.money)
 					if(res.data.data.type == 2) {
 						this.$store.commit('userNameHandel', '创业用户')
-					}else if(res.data.data.type == 3) {
-						this.$store.commit('userNameHandel', '金牌代理商')
-					}else if(res.data.data.type == 4) {
+					}else if(res.data.data.type == 3) {
+						if(res.data.data.is_partner == 1){
+         					this.$store.commit('userNameHandel', '合伙人')
+						}else{
+         					this.$store.commit('userNameHandel', '金牌代理商')
+       					}           
+            		}else if(res.data.data.type == 4) {
 						this.$store.commit('userNameHandel', '合作伙伴')
 					}else if(res.data.data.type == 5) {
 						this.$store.commit('userNameHandel', '代理最终用户')

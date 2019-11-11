@@ -1,0 +1,50 @@
+{
+	"code": 200,
+	"msg": "数据初始化成功",
+	"time": "1556269484",
+	"data": [{
+		"title": "为",
+		"type": "售前类问题",
+		"desc": "[{\"name\":\"\\u7528\\u62376269\",\"type\":3,\"uid\":101,\"time\":1553762619,\"usedesc\":\"7489\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c893bbefa2.jpeg\"},{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c893bbf182.jpeg\"}]},{\"name\":\"\\u7528\\u62376269\",\"time\":1553763027,\"type\":11,\"uid\":117,\"usedesc\":\"456\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c8acc1d0fe.jpeg\"},{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c8acc1d264.jpeg\"}]},{\"name\":\"\\u7528\\u62376269\",\"uid\":101,\"time\":1553763055,\"type\":3,\"usedesc\":\"789\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c8aef6bb69.jpeg\"},{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c8aef6bd53.jpeg\"}]}]",
+		"time": "2019-03-28 16:43",
+		"iscom": "未解决",
+		"id": 79,
+		"completime": "",
+		"gongdan": "001553762619",
+		"usertype": 3,
+		"isdel": "0"
+	}, {
+		"title": "123456",
+		"type": "售后类问题",
+		"desc": "[{\"name\":\"\\u7528\\u62376269\",\"type\":3,\"uid\":101,\"time\":1553762461,\"usedesc\":\"123465\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c889d9bc2c.jpeg\"},{\"url\":\"\\\/upload\\\/images\\\/20190328\\\/5c9c889d9bdf5.jpeg\"}]},{\"name\":\"\\u7528\\u62376269\",\"time\":1553762489,\"type\":null,\"uid\":null,\"usedesc\":\"123465\",\"url\":null}]",
+		"time": "2019-03-28 16:41",
+		"iscom": "已解决",
+		"id": 78,
+		"completime": "2019-03-28 16:43",
+		"gongdan": "001553762461",
+		"usertype": 3,
+		"isdel": "0"
+	}, {
+		"title": "风格化规范化风格化",
+		"type": "财务类问题",
+		"desc": "[{\"name\":\"\\u7528\\u62376269\",\"type\":3,\"time\":1553476431,\"usedesc\":\"\\u4ed6\\u4f9d\\u7136\\u5929\\u6daftry\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190325\\\/5c982b4f8232e.jpeg\"}]},{\"name\":\"\\u7528\\u62376269\",\"time\":1553476507,\"type\":\"10\",\"usedesc\":\"\\u8ba9\\u4ed6\\u5bf9\\u4eba\\u4f53\",\"url\":\"\\\/upload\\\/images\\\/20190325\\\/5c982b98e8dd8.jpeg\"},{\"name\":\"\\u7528\\u62376269\",\"time\":1553476568,\"type\":3,\"usedesc\":\"\\u53cd\\u5bf9\\u4ed6\\u60f9\\u4ed6\\u4f60\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190325\\\/5c982bd8df405.jpeg\"},{\"url\":\"\\\/upload\\\/images\\\/20190325\\\/5c982bd8df6cc.jpeg\"}]}]",
+		"time": "2019-03-25 09:13",
+		"iscom": "已解决",
+		"id": 76,
+		"completime": "2019-03-28 16:43",
+		"gongdan": "001553476431",
+		"usertype": 3,
+		"isdel": "0"
+	}, {
+		"title": "风格化规范化风格化",
+		"type": "财务类问题",
+		"desc": "[{\"name\":\"\\u7528\\u62376269\",\"type\":3,\"time\":1553476422,\"usedesc\":\"\\u4ed6\\u4f9d\\u7136\\u5929\\u6daftry\",\"url\":[{\"url\":\"\\\/upload\\\/images\\\/20190325\\\/5c982b46cc0d9.jpeg\"}]},{\"name\":\"\\u7528\\u62376269\",\"time\":1553762555,\"type\":null,\"uid\":null,\"usedesc\":\"\\u65b9\\u9876\\u9876\",\"url\":null}]",
+		"time": "2019-03-25 09:13",
+		"iscom": "已解决",
+		"id": 75,
+		"completime": "2019-03-28 16:43",
+		"gongdan": "001553476422",
+		"usertype": 3,
+		"isdel": "0"
+	}]
+}

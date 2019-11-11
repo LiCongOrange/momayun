@@ -143,6 +143,9 @@ const devWebpackConfig = merge(baseWebpackConfig, {
     //   chunks: ['step']
     // }),
     
+
+
+    
     // new HtmlWebpackPlugin({
     //   filename: 'login.html',
     //   template: './src/pages/login/login.html',

@@ -1,0 +1,54 @@
+{
+	"code": 200,
+	"msg": "数据初始化成功",
+	"time": "1542191563",
+	"data": {
+		"id": "5",
+		"datalist":[{
+			"id": 9,
+			"lmname": "广告位",
+			"isindex": 1,
+			"isguan": 1
+		}, {
+			"id": 10,
+			"lmname": "产品推荐",
+			"isindex": 1,
+			"isguan": 1
+		}, {
+			"id": 11,
+			"lmname": "副广告位",
+			"isindex": 1,
+			"isguan": 1
+		}, {
+			"id": 12,
+			"lmname": "功能介绍",
+			"isindex": 1,
+			"isguan": 1
+		}, {
+			"id": 13,
+			"lmname": "团队协作",
+			"isindex": 1,
+			"isguan": 1
+		}, {
+			"id": 14,
+			"lmname": "广告位图",
+			"isindex": 0,
+			"isguan": 0
+		}, {
+			"id": 15,
+			"lmname": "服务介绍",
+			"isindex": 0,
+			"isguan": 1
+		}, {
+			"id": 16,
+			"lmname": "关于我们",
+			"isindex": 0,
+			"isguan": 1
+		}, {
+			"id": 18,
+			"lmname": "我们的价值",
+			"isindex": 0,
+			"isguan": 0
+		}]
+	}
+}

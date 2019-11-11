@@ -59,28 +59,28 @@ export default {
     })
   },
   mounted() {
-    // this.$store.state.threeStep.columnList = []
-    // this.$store.state.threeStep.columnList2 = []
-    // this.$axios({
-    //   method: 'get',
-    //   url: '/home/passport/islogin'
-    // }).then((res)=> {
-    //   if(res.data.code == '404') {
-    //     this.$message({
-    //       type: 'error',
-    //       message: res.data.msg
-    //     })
-    //     window.location.href = '/index/index/dllogin'
-    //   }else {
-    //     this.$store.state.isNavToggle = false
-    //     this.$store.commit('allEditOpen', true)
-    //     this.getSiteinfo()
-    //   }
-    // })
+     this.$store.state.threeStep.columnList = []
+     this.$store.state.threeStep.columnList2 = []
+     this.$axios({
+       method: 'get',
+       url: '/home/passport/islogin'
+     }).then((res)=> {
+       if(res.data.code == '404') {
+         this.$message({
+           type: 'error',
+           message: res.data.msg
+         })
+         window.location.href = '/index/index/dllogin'
+       }else {
+         this.$store.state.isNavToggle = false
+         this.$store.commit('allEditOpen', true)
+         this.getSiteinfo()
+       }
+     })
 
-     this.$store.state.isNavToggle = false          // 测试专用
-     this.$store.commit('allEditOpen', true)        // 测试专用
-     this.getSiteinfo()                             // 测试专用
+    // this.$store.state.isNavToggle = false          // 测试专用
+    // this.$store.commit('allEditOpen', true)        // 测试专用
+    // this.getSiteinfo()                             // 测试专用
     $('.zContainer').animate({scrollTop:'0'},500)
   },
   methods: {
@@ -129,21 +129,22 @@ export default {
   		this.isActive = false
   	},
     getSiteinfo() {
-      // let urlSearch = window.location.search
-      // let allurl = urlSearch.split("?")[1]
-      // this.$store.commit('siteidHandel', allurl)
-      // this.$axios({
-      //   method: 'get',
-      //   url: '/api/showsite/siteinfo',
-      //   params: {
-      //     site_id: this.siteId
-      //   }
-      // }).then(this.getSiteinfoSucc)
-
-       this.$axios({      // 测试专用
-         method: 'get', 
-         url: '/api/showsite.json'
+       let urlSearch = window.location.search
+       let allurl = urlSearch.split("?")[1]
+       this.$store.commit('siteidHandel', allurl)
+       this.$axios({
+         method: 'get',
+         url: '/api/showsite/siteinfo',
+         params: {
+           site_id: this.siteId
+         }
        }).then(this.getSiteinfoSucc)
+
+      // this.$axios({      // 测试专用
+      //   method: 'get', 
+      //   url: '/api/showsite.json'
+      //   //url: '/api/block.json'
+      // }).then(this.getSiteinfoSucc)
     },
     getSiteinfoSucc(res) {
       if(res.data.code == '200') {
@@ -241,8 +242,8 @@ export default {
         }
         this.pageToggle2 = true
         this.$axios({
-          // method: 'get',
-          // url: '/api/bannerimg.json'
+           //method: 'get',
+           //url: '/api/bannerimg.json',
           method: 'post',
           url: '/api/Infordatabase/bannerimg',
           data: {

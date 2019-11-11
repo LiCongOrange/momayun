@@ -11,22 +11,22 @@ module.exports = {
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
 
-    // proxyTable: {
-    //     '/api': {
-    //         target: 'https://site.momayun.cn',
-    //         secure: false,
-    //         changeOrigin: true,
-    //     }
-    // },
+     proxyTable: {
+         '/api': {
+             target: 'https://site.momayun.cn',
+             secure: false,
+             changeOrigin: true,
+         }
+     },
 
-    proxyTable: {
-        '/api': {
-            target: 'http://localhost:8084',
-            pathRewrite: {
-                '^/api': '/static/mock'
-            }
-        }
-    },
+    //proxyTable: {
+    //    '/api': {
+    //        target: 'http://localhost:8084',
+    //        pathRewrite: {
+    //            '^/api': '/static/mock'
+    //        }
+    //    }
+    //},
 
     // Various Dev Server settings
     host: 'localhost', // can be overwritten by process.env.HOST
@@ -76,6 +76,9 @@ module.exports = {
     // allset: path.resolve(__dirname, '../dist/allset.html'),            //整套模板页
     // stafflogin: path.resolve(__dirname, '../dist/stafflogin.html'),        //员工登陆
     // step: path.resolve(__dirname, '../dist/step.html'),            //三步建站
+    
+
+
     
     // login: path.resolve(__dirname, '../dist/login.html'),          //普通会员登录页
     // account: path.resolve(__dirname, '../dist/account.html'),      //账户信息

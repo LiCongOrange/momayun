@@ -1,0 +1,101 @@
+{
+	"code": 200,
+	"msg": "数据初始化成功",
+	"time": "1545805602",
+	"data": [{
+		"proid": 1,
+		"product": "1",
+		"desc": "产品介绍产品介绍",
+		"fuwu": "一年以上域名 ",
+		"title": "智能建站",
+		"sales": 0,
+		"futitle": "website",
+		"state": 0,
+		"index": 0,
+		"type": [{
+			"id": 1,
+			"proid": 1,
+			"utype": 1,
+			"price": "998",
+			"isactivity": "0",
+			"actprice": "",
+			"guige": "一年"
+		}]
+	}, {
+		"proid": 4,
+		"product": "3",
+		"desc": "为什么选择他？\r\n微信客服，搜索关键词优化。",
+		"fuwu": "一年以上域名 ",
+		"title": "小程序标准版",
+		"sales": 0,
+		"futitle": "998元\/年",
+		"state": 0,
+		"index": 0,
+		"type": [{
+			"id": 4,
+			"proid": 4,
+			"utype": 1,
+			"price": "998",
+			"isactivity": "0",
+			"actprice": null,
+			"guige": "一年"
+		}]
+	}, {
+		"proid": 5,
+		"product": "3",
+		"desc": "微信客服，搜索关键词优化。",
+		"fuwu": "一年以上域名 ",
+		"title": "小程序高级版",
+		"sales": 0,
+		"futitle": "2998元\/年",
+		"state": 0,
+		"index": 0,
+		"type": [{
+			"id": 9,
+			"proid": 5,
+			"utype": 1,
+			"price": "2998",
+			"isactivity": "0",
+			"actprice": "",
+			"guige": "一年"
+		}]
+	}, {
+		"proid": 6,
+		"product": "4",
+		"desc": "产品介绍产品介绍",
+		"fuwu": "一年以上域名 ",
+		"title": "公众号标准版",
+		"sales": 0,
+		"futitle": "998元\/年",
+		"state": 0,
+		"index": 0,
+		"type": [{
+			"id": 14,
+			"proid": 6,
+			"utype": 1,
+			"price": "998",
+			"isactivity": "0",
+			"actprice": null,
+			"guige": "一年"
+		}]
+	}, {
+		"proid": 7,
+		"product": "5",
+		"desc": "产品介绍产品介绍",
+		"fuwu": "一年以上域名 ",
+		"title": "微传单",
+		"sales": 0,
+		"futitle": "20元\/个\/年",
+		"state": 0,
+		"index": 0,
+		"type": [{
+			"id": 19,
+			"proid": 7,
+			"utype": 1,
+			"price": "20",
+			"isactivity": "0",
+			"actprice": null,
+			"guige": "一年"
+		}]
+	}]
+}

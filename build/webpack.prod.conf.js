@@ -247,6 +247,9 @@ const webpackConfig = merge(baseWebpackConfig, {
     //   chunks: ['manifest', 'vendor', 'step']
     // }),
     
+
+
+    
     // new HtmlWebpackPlugin({
     //   filename: config.build.login,
     //   template: './src/pages/login/login.html',
