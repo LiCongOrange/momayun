@@ -352,7 +352,7 @@ export default {
 								font-size: 30px
 								font-weight: 500
 					p
-						padding: 0 20px
+						padding: 0 20px 10px
 						text-align: left
 						span
 							display: block

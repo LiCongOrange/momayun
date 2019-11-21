@@ -128,8 +128,8 @@ export default {
 		this.getinfo()
 		this.$axios({
 			method: 'get',
-			//url: '/api/Ctstation/hangye'
-			 url: '/api/hangye.json'
+			url: '/api/Ctstation/hangye'
+			 //url: '/api/hangye.json'
 		}).then((res)=> {
 			if(res.data.code == '200') {
 				this.$store.commit('hangyeHandel', res.data.data)
@@ -209,8 +209,8 @@ export default {
 					this.iframeUrl = '/index/index/pre?' + mobanId
 		      this.$axios({
 		        method: 'get',
-		        //url: '/api/showsite/siteinfo',
-		         url: '/api/showsite2.json',
+		        url: '/api/showsite/siteinfo',
+		         //url: '/api/showsite2.json',
 		        params: {
 		          site_id: mobanId
 		        }
@@ -262,10 +262,10 @@ export default {
 		},
 		getinfo() {
 			this.$axios({
-				//method: 'post',
-				//url: '/api/Usersites/showimglist'
-				 method: 'get',
-				 url: '/api/showimglist.json'
+				method: 'post',
+				url: '/api/Usersites/showimglist'
+				 //method: 'get',
+				 //url: '/api/showimglist.json'
 			}).then((res)=> {
 				if(res.data.code == '200') {
 					let data = res.data.data

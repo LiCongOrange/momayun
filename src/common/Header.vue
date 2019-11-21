@@ -10,10 +10,12 @@
 				
 			</div>
 			<div class="logo" @click="userHandel('2')" v-else-if="userType == '6'">
+				<!-- <img src="@/assets/images/header/logo22.jpg"> -->
 				<img src="@/assets/images/header/logo22.jpg">
 			</div>
 			<div class="logo" @click="userHandel('0')" v-else>
-				<img src="@/assets/images/header/logo22.jpg">
+				<!-- <img src="@/assets/images/header/logo22.jpg"> -->
+				<img :src="Partnerlogo">
 			</div>
 
 			<div class="nav-right" v-if="this.onOff">
@@ -51,7 +53,9 @@ import navBus from '@/assets/js/navBus'
 export default {
 	data() {
 		return {
-			onOff: false
+			onOff: false,
+			Partnerlogo:"",
+			domain:""
 		}
 	},
 	computed: {
@@ -157,6 +161,20 @@ export default {
 				})
 				this.onOff = true
 				window.location.href = '/index/index/dllogin'
+			}
+		})
+		this.domain = window.location.href
+		console.log(this.domain)
+		this.$axios({
+			method: 'get',
+			url: '/api/addhhrimg.json',
+			data: {domain : this.domain}
+		}).then((res)=> {
+			if(res.data.code == '200') {
+				this.Partnerlogo=res.data.data[0].logo
+				console.log(this.Partnerlogo)
+			}else {
+				
 			}
 		})
 	}

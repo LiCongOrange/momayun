@@ -96,8 +96,13 @@
 							<!-- <h2>产品中心</h2> -->
 							<ul>
 								<li v-for="(item, index) in contentList" :key="item.id">
+									<div class="hot" style="">
+											<img style="max-width:40px;" :src="item.hotUrl" alt=""></div>
 									<div class="liWrap">
-										<div class="img"><img :src="item.imgUrl"><span v-text="item.title"></span></div>
+										<div class="img">
+											<img :src="item.imgUrl">
+											<span v-text="item.title"></span>
+										</div>
 										<!-- <div class="title"><span v-text="item.title"></span></div> -->
 										<div class="text"><p v-html="item.text"></p></div>
 										<button @click="toFunc(item.id)">{{ item.button }}</button>
@@ -269,6 +274,7 @@ export default {
 			}, {
 				id: 'f02',
 				imgUrl: '/static/images/productCenter/center2.png',
+				hotUrl:'../../../static/images/productCenter/hot.png',
 				title: '微信小程序',
 				text: '快速生成应用&nbsp让客户主动找到你',
 				button: '前往管理',
@@ -279,7 +285,7 @@ export default {
 				title: '微传单',
 				text: '最受欢迎的移动端营销工具',
 				button: '前往管理',
-				onoff: true
+				onoff: true,
 			}, {
 				id: 'f03',
 				imgUrl: '/static/images/productCenter/center4.png',
@@ -589,12 +595,21 @@ export default {
 			float: left
 			vertical-align: top
 			margin-bottom: 15px
+			position relative
 			&:hover
 				.liWrap
 					transform: translateY(-5px)
 					box-shadow: 0 1px 15px #a9a7a7
 					position: relative
-					z-index: 1000000
+					//z-index: 1000000
+				.hot
+					transform: translateY(-5px)
+			.hot
+				position: absolute
+				top: -27px
+				left: 223px
+				transition: all .3s
+				z-index:100000
 			.liWrap
 				// width: 248px
 				margin: 0 auto
@@ -605,7 +620,7 @@ export default {
 				background: #fff
 				max-width: 234px
 				border-radius: 3px
-				overflow: hidden
+				//overflow: hidden
 				.img
 					min-height: 170px
 					display: flex

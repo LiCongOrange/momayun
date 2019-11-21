@@ -1,9 +1,0 @@
-{
-	"code": 200,
-	"msg": "提交成功",
-	"time": "1546583404",
-	"data": {
-		"out_trade_no": "MY5c2efd6c9ac47",
-		"code_url": "http:\/\/api.momayun.cn\/qrcode.php?data=weixin://wxpay/bizpayurl?pr=et3GIk2"
-	}
-}

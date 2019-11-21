@@ -11,22 +11,23 @@ module.exports = {
     assetsSubDirectory: 'static',
     assetsPublicPath: '/',
 
-     proxyTable: {
-         '/api': {
-             target: 'https://site.momayun.cn',
-             secure: false,
-             changeOrigin: true,
-         }
-     },
+    // proxyTable: {
+    //     '/api': {
+    //        target: 'https://site.momayun.cn',
+    //        //target: 'http://www.hellox.net',
+    //         secure: false,
+    //         changeOrigin: true,
+    //     }
+    // },
 
-    //proxyTable: {
-    //    '/api': {
-    //        target: 'http://localhost:8084',
-    //        pathRewrite: {
-    //            '^/api': '/static/mock'
-    //        }
-    //    }
-    //},
+    proxyTable: {
+        '/api': {
+            target: 'http://localhost:8084',
+            pathRewrite: {
+                '^/api': '/static/mock'
+            }
+        }
+    },
 
     // Various Dev Server settings
     host: 'localhost', // can be overwritten by process.env.HOST
